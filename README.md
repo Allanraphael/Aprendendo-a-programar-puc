@@ -1,2 +1,2 @@
 # Aprendendo a programar puc
- Tentando entender programação
+ Tentando entender programação!
